@@ -19,3 +19,25 @@ CampusKart is a campus-focused marketplace web application that allows students 
 *(Optional upgrade: React + Firebase)*
 
 ## 📁 Project Structure
+
+## ▶️ How to Run
+1. Clone or download the repository  
+2. Open `index.html` in your browser  
+3. Start exploring CampusKart 🎓  
+
+## 🎯 Project Objective
+CampusKart was built to:
+- Apply CRUD concepts in a real-world scenario  
+- Practice frontend development and UI/UX design  
+- Solve a common student problem within campuses  
+
+## 🌱 Future Enhancements
+- User authentication using college email  
+- Chat between buyer and seller  
+- Image upload for products  
+- Admin moderation dashboard  
+- Payment gateway integration  
+
+## 📄 License
+This project is open-source and intended for learning and academic use.
+
